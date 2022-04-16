@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19133" started-at="2022-04-16T05:01:10 CDT" finished-at="2022-04-16T05:01:29 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19133" started-at="2022-04-16T05:01:10 CDT" finished-at="2022-04-16T05:01:29 CDT">
+      <class name="Vc.CRMTest">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:Vc.CRMTest@5bb21b69]" name="readConfig" is-config="true" duration-ms="21" started-at="2022-04-16T05:01:10 CDT" finished-at="2022-04-16T05:01:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:Vc.CRMTest@5bb21b69]" name="init" is-config="true" duration-ms="5604" started-at="2022-04-16T05:01:10 CDT" finished-at="2022-04-16T05:01:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:Vc.CRMTest@5bb21b69]" name="loginTest" duration-ms="2111" started-at="2022-04-16T05:01:15 CDT" finished-at="2022-04-16T05:01:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Vc.CRMTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="4961" started-at="2022-04-16T05:01:17 CDT" finished-at="2022-04-16T05:01:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:Vc.CRMTest@5bb21b69]" name="init" is-config="true" duration-ms="2452" started-at="2022-04-16T05:01:22 CDT" finished-at="2022-04-16T05:01:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addContact()[pri:2, instance:Vc.CRMTest@5bb21b69]" name="addContact" duration-ms="2942" started-at="2022-04-16T05:01:25 CDT" finished-at="2022-04-16T05:01:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Vc.CRMTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="921" started-at="2022-04-16T05:01:28 CDT" finished-at="2022-04-16T05:01:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Vc.CRMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
